@@ -1,0 +1,3 @@
+Name,ChineseFont,WesternFont,FontSize,Bold,Italic,Alignment,OutlineLevel,LeftIndent,RightIndent,FirstLineIndent,LineUnitBefore,LineUnitAfter,LineSpacing,Shortcut
+a中文论文题目,黑体,Times New Roman,三号,FALSE,FALSE,中,10,5,5,0,0,1,1.25,ctrl+7
+a英文论文题目,黑体,Times New Roman,三号,TRUE,FALSE,中,10,5,5,0,0,3,1.25,ctrl+7

@@ -1,0 +1,7 @@
+Name,ChineseFont,WesternFont,FontSize,Bold,Italic,Alignment,OutlineLevel,LeftIndent,RightIndent,FirstLineIndent,LineUnitBefore,LineUnitAfter,LineSpacing,Shortcut
+新样式,宋体,Times New Roman,小四,False,False,左,10,0,0,2,0,0,1.25,
+新样式,宋体,Times New Roman,小四,False,False,左,10,0,0,2,0,0,1.25,
+a参正文,宋体,Times New Roman,小四,False,False,两端,10,0,0,0,0,0,1,
+正文,宋体,Times New Roman,小四,False,False,两端,10,0,0,2,0,0,1,ctrl+`
+a三级标题,宋体,Times New Roman,小四,False,False,左,3,0,0,0,0,0,1,ctrl+3
+a二级标题,宋体,Times New Roman,小四,False,False,左,2,0,0,0,0,0,1,ctrl+2

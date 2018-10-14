@@ -1,0 +1,18 @@
+missing module named 'win32com.gen_py' - imported by win32com, d:\programdata\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named resource - imported by posix, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named posix - imported by os, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named _posixsubprocess - imported by subprocess, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named org - imported by pickle, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named readline - imported by cmd, code, pdb, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named _winreg - imported by platform, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named 'java.lang' - imported by platform, E:\Python\pycharm\loadStylesFromCsvfile\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named termios - imported by tty, E:\Python\pycharm\loadStylesFromCsvfile\main.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\Python\pycharm\loadStylesFromCsvfile\main.py
+missing module named 'org.python' - imported by copy, E:\Python\pycharm\loadStylesFromCsvfile\main.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\Python\pycharm\loadStylesFromCsvfile\main.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, E:\Python\pycharm\loadStylesFromCsvfile\main.py
